@@ -3,7 +3,7 @@
 
 
 ## Preview
-<img src="Screenshots/ss1.JPG" width="1000" height="500">
+<img src="path.JPG" width="1000" height="500">
 
 ## Description
 
